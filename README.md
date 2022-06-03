@@ -106,20 +106,32 @@ de todos los resistores individuales, tal como en los circuitos en serie.
 5. CONCLUSIONES
 
 ◆ La corriente es la misma en todos los puntos de un circuito en serie.
+
 ◆ La resistencia total en serie es la suma de todos los resistores presentes en el circuito en serie.
+
 ◆ La resistencia total entre dos puntos cualesquiera de un circuito en serie es igual a la suma de todos los
 resistores conectados entre esos dos puntos.
+
 ◆ Si todos los resistores presentes en un circuito en serie son de igual valor, la resistencia total es la cantidad de resistores multiplicada por el valor de resistencia de un resistor.
+
 ◆ Las fuentes de voltaje en serie se suman algebraicamente.
+
 ◆ Ley del voltaje de Kirchhoff: La suma de todas las caídas de voltaje localizadas en una trayectoria cerrada de un circuito es igual al voltaje total de fuente en dicha trayectoria.
+
 ◆ Ley del voltaje de Kirchhoff: La suma algebraica de todos los voltajes (tanto de fuente como caídas) localizados en una trayectoria cerrada es cero.
 
 ◆ Los resistores en paralelo se conectan entre dos puntos (nodos).
+
 ◆ Una combinación en paralelo tiene más de una trayectoria para la corriente.
+
 ◆ La resistencia total en paralelo es menor que el resistor de valor más bajo.
+
 ◆ Los voltajes a través de todas las ramas de un circuito en paralelo son los mismos.
+
 ◆ La fuentes de corriente en paralelo se suman algebraicamente.
+
 ◆ Ley de las corrientes de Kirchhoff: La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a las corrientes que salen del nodo (corriente total de salida).
+
 ◆ La suma algebraica de todas las corrientes que entran a, y salen de, una nodo es igual a cero
 
 6. BIBLIOGRAFÍA
