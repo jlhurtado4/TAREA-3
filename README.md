@@ -98,6 +98,12 @@ de todos los resistores individuales, tal como en los circuitos en serie.
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-1.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-8-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-8-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-10-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-10-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-10-3.jpg)
 
 **EJERCICIOS CAPITULO 6**
 
