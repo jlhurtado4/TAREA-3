@@ -48,7 +48,34 @@ designado en el circuito. Este punto de referencia se llama tierra o punto comú
 
 - **CAPITULO 6**
 
+- RESISTORES EN PARALELO: Cuando dos o más resistores se conectan individualmente entre dos puntos distintos, están en
+paralelo entre sí. Un circuito en paralelo proporciona más de una trayectoria para la corriente. Cada trayectoria para la corriente se denomina rama, y un circuito en paralelo es uno que tiene más de una rama.
 
+- VOLTAJE EN UN CIRCUITO EN PARALELO: El voltaje a través de cualquier rama de un circuito dispuesto en paralelo es igual al voltaje a
+través de cada una de las demás ramas en paralelo. Como ya se sabe, en un circuito en paralelo, cada trayectoria para la corriente se denomina rama.
+
+- LEY DE LAS CORRIENTES DE KIRCHHOFF: La ley del voltaje de Kirchhoff se ocupa de los voltajes presentes en una sola trayectoria cerrada. La ley de la corriente de Kirchhoff es aplicable a corrientes que circulan por múltiples
+trayectorias. La ley de las corrientes de Kirchhoff, abreviada a menudo como KCL, por sus siglas en inglés, puede ser enunciada como sigue:
+La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la
+suma de las corrientes que salen de dicho nodo (corriente total de salida).
+Un nodo es cualquier punto o unión en un circuito donde dos o más componentes están conectados. En un circuito en paralelo, un nodo o unión es un punto donde se juntan las ramas dispuestas en paralelo.
+
+- RESISTENCIA TOTAL EN PARALELO: Cuando se conectan resistores en paralelo, la resistencia total del circuito se reduce. La resistencia total de un circuito dispuesto en paralelo siempre es menor que el valor del resistor más
+pequeño. Por ejemplo, si un resistor de 10 Æ y otro de 100 Æ se conectan en paralelo, la resistencia total es menor que 10 Æ.
+
+- APLICACION DE LA LEY DE OHM: La ley de Ohm puede ser aplicada al análisis de circuitos en paralelo.
+
+- FUENTE DE CORRIENTE EN PARALELO: Tal como se aprendió en el capítulo 2, una fuente de corriente es un tipo de fuente de energía
+que suministra una corriente constante a una carga aun cuando la resistencia de dicha carga
+cambie. Se puede utilizar un transistor como fuente de corriente; por tanto, las fuentes de corriente son importantes en circuitos electrónicos. Aunque el estudio de transistores queda fuera
+del alcance de este libro, se deberá entender cómo actúan las fuentes de corriente en paralelo.
+
+- DIVISORES DE CORRIENTE: Un circuito en paralelo actúa como divisor de corriente porque la corriente que entra a
+la unión de ramas dispuestas en paralelo “se divide” en varias corrientes individuales. En un circuito en paralelo, la corriente total dirigida hacia la unión de las ramas dispuestas en
+paralelo se divide entre las ramas. Por tanto, un circuito en paralelo actúa como divisor de corriente. 
+
+- POTENCIA EN CIRCUITOS EN PARALELO: La potencia total presente en un circuito en paralelo se encuentra sumando las potencias
+de todos los resistores individuales, tal como en los circuitos en serie.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
