@@ -8,7 +8,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 1. OBJETIVOS
 
-- Analizar y entender el capitulo 3 y 4 del libro "Principios de circuitos electricos - Floyd" para lo cual se debera leer y resolver los ejercicios pares que se encuentran al terminar el capitulo.
+- Analizar y entender el capitulo 5 y 6 del libro "Principios de circuitos electricos - Floyd" para lo cual se debera leer y resolver los ejercicios pares que se encuentran al terminar el capitulo.
 
 - - Realizar los ejercicios pares de cada capitulo y explicar como fueron resueltos.
 - - Demostrar a travez de un video el conocimiento adquirido del capitulo.
