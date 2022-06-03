@@ -20,6 +20,24 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 - **CAPITULO 6**
 
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-2-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-2-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-2-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-4-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-4-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-5-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-5-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-5-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-7-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-7-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-7-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-8-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-8-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-8-3.jpg)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **EJERCICIOS CAPITULO 5**
