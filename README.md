@@ -81,6 +81,24 @@ de todos los resistores individuales, tal como en los circuitos en serie.
 
 **EJERCICIOS CAPITULO 5**
 
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-2-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-2-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-3-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-3-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-4-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-4-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-4-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-6-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-6-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-6-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-6-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/5-7-3.jpg)
+
 **EJERCICIOS CAPITULO 6**
 
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-1.jpg)
