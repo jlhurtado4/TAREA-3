@@ -122,6 +122,8 @@ de todos los resistores individuales, tal como en los circuitos en serie.
 
 4. VIDEO
 
+https://youtu.be/DmfLZaOrH8c
+
 5. CONCLUSIONES
 
 ◆ La corriente es la misma en todos los puntos de un circuito en serie.
