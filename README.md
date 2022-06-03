@@ -88,6 +88,7 @@ de todos los resistores individuales, tal como en los circuitos en serie.
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-2-2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-2-3.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-3-2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-4-1.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-4-2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/6-5-1.jpg)
